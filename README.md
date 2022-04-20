@@ -52,9 +52,8 @@ only impressions
 
 ### Contact
 
-Mail: <holgeraliusklose@gmail.com><br>
-GitHub: [Holledrums](https://github.com/holledrums)<br>
-LinkedIn: [Holger Klose](https://www.linkedin.com/in/holger-klose-240831147/)
+Mail: <dennis.piecha25@gmail@gmail.com><br>
+GitHub: [DennisPiecha](https://github.com/DennisPiecha)<br>
 
 ---
 
