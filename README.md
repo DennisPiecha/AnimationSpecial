@@ -2,8 +2,6 @@
 
 # Secret Unfolds
 
-**[have a look](https://holledrums.github.io/uebung_animation/)**
-
 ---
 
 #### Navigation
@@ -52,7 +50,7 @@ only impressions
 
 ### Contact
 
-Mail: <dennis.piecha25@gmail@gmail.com><br>
+Mail: <dennis.piecha25@gmail.com><br>
 GitHub: [DennisPiecha](https://github.com/DennisPiecha)<br>
 
 ---
